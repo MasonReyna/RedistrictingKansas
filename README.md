@@ -1,4 +1,9 @@
-Our Operations Research Redistricting Kansas project involved our team using Linear Programming to determine the optimal arrangement for Kansas' 4 congressional districts. Our Project Report, titled RedistrictingKansasProject, gives a detailed proposed solution and methods. The code/all files used are also included to keep our project clear and concise for others to view if they need to reference it. The Kansas county graph is taken from Daryl DeFord's website, and the Kansas shapefiles are taken from Eugene Lykhovyd's website. Both sites contain all 50 U.S. states and our professor gave us this information.
+This project proposes a congressional redistricting plan that can withstand legal evaluation and adhere to state and federal regulations. Our proposed plan not only respects the basic criteria of redistricting (i.e., population balance concerning 1% deviation and contiguity) but also respects:
+
+•	County preservation, which results in resolving the gerrymandering issue around Wyandotte County and decreasing the county splits from four to zero; and
+
+•	Compactness concerning the number of cut edges (i.e., edges with endpoints belonging to different districts) by obtaining the minimum number of them in the proposed plan.   
+
 
 <p align="center">
   <img width="409" alt="Screenshot 2024-05-30 at 2 35 18 PM" src="https://github.com/MasonReyna/RedistrictingKansas/assets/150065234/087f67db-9256-4b82-9f5e-306da00fa7e2">
